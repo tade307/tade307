@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tade307
-- 👀 I’m interested in xbox
-- 🌱 I’m currently learning math
+- 👀 I’m interested in my web
+- 🌱 I’m currently learning math and codeing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me iphone
 - 😄 Pronouns: ...
