@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tade307
-- 👀 I’m interested in my web
+- 👀 I’m interested in make web sites
 - 🌱 I’m currently learning math and codeing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me iphone
+- 💞️ I’m looking to collaborate on codeing
+- 📫 How to reach me outlook
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
